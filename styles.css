@@ -1,0 +1,53 @@
+body {
+   
+    background-color: #010917;
+}
+.bg{
+   
+}
+
+#firstBg {
+    background-image: url("Assets/firstlayer.png");
+}
+
+#name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font: 3em Impact;
+}
+.intro{
+    background-image: url("Assets/artworks/storefrontpixelartnight.png");
+    
+}
+.margin{
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+}
+
+.welcome{
+    padding-top: 5rem;
+
+}
+.imgsize{
+    
+    width: 22rem;
+    height: 28rem;
+
+}
+.leftcol{
+    background-color: aliceblue;
+    opacity: 80%;
+}
+
+.jedisaursize{
+    margin-top: 12rem;
+}
+.projects2{
+    background-color: #011117;
+    
+}
+.maxwidth{
+    width: 60rem;
+    max-width: 80rem;
+}
